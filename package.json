@@ -1,0 +1,17 @@
+{
+  "token": "MTI3OTA0NjEyNDQzODgxODg3OQ.G0EQfp.26Zj77drwS7-fLXBFR22PEIh6K1CfwQoyFTNak",
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "openai": "^4.57.0"
+  }
+}
